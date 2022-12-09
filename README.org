@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 #+TITLE: Godot Open 2D Test1
+=======
+#+TITLE: Godot Open 2D asdadsasd
+>>>>>>> Stashed changes
 #+DESCRIPTION: A short platform/adventure demo project to teach how to create similar 2d games
 
 A course based on a *short 2d game demo inspired by metroidvanias* split into a Free, beginner-friendly series and a paid, intermediate-level series that builds upon the Free one.
