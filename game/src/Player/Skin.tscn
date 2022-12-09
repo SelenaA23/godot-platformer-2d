@@ -157,8 +157,8 @@ texture = ExtResource( 2 )
 script = ExtResource( 3 )
 
 [node name="Robi" type="Sprite" parent="."]
-position = Vector2( 7.62939e-06, -63.6747 )
-scale = Vector2( 0.171399, 0.171399 )
+position = Vector2( 7.62939e-06, -36.4938 )
+scale = Vector2( 0.171399, 0.098135 )
 z_index = 10
 texture = ExtResource( 4 )
 
