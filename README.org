@@ -1,8 +1,6 @@
 #+TITLE: Godot Open 2D Platformer
 #+DESCRIPTION: A short platform/adventure demo project to teach how to create similar 2d games
 
-[[./img/banner.png]]
-
 A course based on a *short 2d game demo inspired by metroidvanias* split into a Free, beginner-friendly series and a paid, intermediate-level series that builds upon the Free one.
 
 ➡ Follow us on [[https://twitter.com/NathanGDQuest ][Twitter]] and [[https://www.youtube.com/c/gdquest/][YouTube]] for free game creation tutorials, tips, and news! Get one of our [[https://gdquest.mavenseed.com/][Godot game creation courses]] to support our work on Free Software.
